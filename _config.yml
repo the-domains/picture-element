@@ -1,0 +1,28 @@
+name: Picture Element
+favicon: null
+layout_spectrum: 0.8617795095779002
+typography_spectrum: 0.24578549736179411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.25608395459130406
+  lightness: 0.2904353393241763
+  saturation: 0.9257819645572454
+  rhythmicContrast: 0.8817562405019999
+purpose: []
