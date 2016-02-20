@@ -1,7 +1,7 @@
 name: Picture Element
 favicon: null
-layout_spectrum: 0.8617795095779002
-typography_spectrum: 0.24578549736179411
+layout_spectrum: 1
+typography_spectrum: 0.10029
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.25608395459130406
+    - '#99c7e6'
+    - '#3e241a'
+    - '#4875dc'
+    - '#bf8453'
+    - '#a4501f'
+  brandStrength: 0.5
   lightness: 0.2904353393241763
   saturation: 0.9257819645572454
   rhythmicContrast: 0.8817562405019999
